@@ -1,0 +1,3 @@
+{"batch_size": 70, "request_speed": 1, "average_latency": 6.754405587514242, "throughput": 218.19511547589124}
+{"batch_size": 70, "request_speed": 2, "average_latency": 7.244549048741659, "throughput": 402.7323117596211}
+{"batch_size": 70, "request_speed": 3, "average_latency": 8.5295996427536, "throughput": 549.7856650302574}

@@ -1,0 +1,15 @@
+{"batch_size:": 70, "request_speed:": 2, "average_latency:": 4.65992983341217, "throughput:": 420.3242055005864}
+{"batch_size:": 70, "request_speed:": 1, "average_latency:": 4.082196035385132, "throughput:": 227.29135542070063}
+{"batch_size:": 70, "request_speed:": 0.5, "average_latency:": 3.847551717758179, "throughput:": 116.34916356222689}
+{"batch_size:": 70, "request_speed:": 3, "average_latency:": 6.794117929140727, "throughput:": 581.7880158044161}
+{"batch_size:": 70, "request_speed:": 3, "average_latency:": 6.93766421953837, "throughput:": 593.0692696791646}
+{"batch_size:": 70, "request_speed:": 5.0, "average_latency:": 12.081445053418477, "throughput:": 792.6177224178209}
+{"batch_size:": 70, "request_speed:": 8.0, "average_latency:": 16.02652369817098, "throughput:": 778.9854259234753}
+{"batch_size:": 70, "request_speed:": 10.0, "average_latency:": 15.038272026379904, "throughput:": 866.5214632017554}
+{"batch_size:": 70, "request_speed:": 10.0, "average_latency:": 15.314012996355693, "throughput:": 868.4404657717391}
+{"batch_size:": 70, "request_speed:": 15.0, "average_latency:": 18.326403781572978, "throughput:": 857.5466113457063}
+{"batch_size:": 70, "request_speed:": 20.0, "average_latency:": 20.073920194307963, "throughput:": 847.3649285326699}
+{"batch_size:": 70, "request_speed:": 3, "average_latency:": 6.416614944140116, "throughput:": 582.1170214222279}
+{"batch_size:": 70, "request_speed:": 3, "average_latency:": 6.533983354568481, "throughput:": 577.6005528878651}
+{"batch_size:": 70, "request_speed:": 3, "average_latency:": 9.532163931528727, "throughput:": 535.9421950197484}
+{"batch_size:": 70, "request_speed:": 3, "average_latency:": 10.913582094510396, "throughput:": 557.204729831344}

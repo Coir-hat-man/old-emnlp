@@ -1,0 +1,12 @@
+self.tree_buffer: {'attn_mask': [tensor([[[[1., 0., 0., 0.],
+          [0., 1., 0., 0.],
+          [0., 0., 1., 0.],
+          [0., 0., 0., 1.]]]], device='cuda:0'), tensor([[[[1., 0., 0., 0., 1., 0., 0., 0.],
+          [1., 0., 0., 0., 0., 1., 0., 0.],
+          [1., 0., 0., 0., 0., 0., 1., 0.],
+          [0., 1., 0., 0., 0., 0., 0., 1.]]]], device='cuda:0'), tensor([[[[1., 0., 0., 0., 1., 0., 0., 0., 1.]]]], device='cuda:0'), tensor([[[[1., 0., 0., 0., 1., 0., 0., 0., 1., 1.]]]], device='cuda:0')], 'tree_indices': [tensor([0, 1, 2, 3], device='cuda:0'), tensor([ 0,  1,  2, 10], device='cuda:0'), tensor([0], device='cuda:0'), tensor([0], device='cuda:0')], 'position_ids': [tensor([0, 0, 0, 0], device='cuda:0'), tensor([0, 0, 0, 0], device='cuda:0'), tensor([0], device='cuda:0'), tensor([0], device='cuda:0')], 'repeat_nums': [[4], [3, 1], [1], [1]]}
+warm up
+warm up finished
+投入请求总数： 300
+--------------------eval--------------------
+{'batch_size': 20, 'request_speed': 3, 'average_latency': 10.341295447349548, 'throughput': 625.6936513114676, 'Accept_ratio': 3.3313844406233617, 'TPOT_ratio': 0.85}

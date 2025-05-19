@@ -1,0 +1,6 @@
+warm up
+warm up finished
+投入请求总数： 300
+--------------------eval--------------------
+{'batch_size': 20, 'request_speed': 2, 'average_latency': 8.388683715661367, 'throughput': 441.9906418428493, 'Accept_ratio': 1.0, 'TPOT_ratio': 0.7233333333333334}
+all_count: 72514

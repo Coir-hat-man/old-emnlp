@@ -1,0 +1,43 @@
+self.tree_buffer: {'attn_mask': [tensor([[[[1., 0., 0., 0.],
+          [0., 1., 0., 0.],
+          [0., 0., 1., 0.],
+          [0., 0., 0., 1.]]]], device='cuda:0'), tensor([[[[1., 0., 0., 0., 1., 0., 0., 0.],
+          [1., 0., 0., 0., 0., 1., 0., 0.],
+          [1., 0., 0., 0., 0., 0., 1., 0.],
+          [0., 1., 0., 0., 0., 0., 0., 1.]]]], device='cuda:0'), tensor([[[[1., 0., 0., 0., 1., 0., 0., 0., 1.]]]], device='cuda:0'), tensor([[[[1., 0., 0., 0., 1., 0., 0., 0., 1., 1.]]]], device='cuda:0')], 'tree_indices': [tensor([0, 1, 2, 3], device='cuda:0'), tensor([ 0,  1,  2, 10], device='cuda:0'), tensor([0], device='cuda:0'), tensor([0], device='cuda:0')], 'position_ids': [tensor([0, 0, 0, 0], device='cuda:0'), tensor([0, 0, 0, 0], device='cuda:0'), tensor([0], device='cuda:0'), tensor([0], device='cuda:0')], 'repeat_nums': [[4], [3, 1], [1], [1]]}
+warm up
+requests: [<__main__.ModelRequest object at 0x7f623dd451c0>]
+finsh_request_list: 1
+-------------------- output--------------------
+
+finsh_request_list[0].output_ids: 1
+finsh_request_list[0].output: Economic indicators such as GDP, inflation, and unemployment rates are closely related and are often used to measure the overall health of an economy. Here's how they are correlated and how fiscal and monetary policies can affect them:
+
+1. Gross Domestic Product (GDP): GDP is the total value of all goods and services produced in an economy over a certain period of time. It is a key indicator of economic growth and is often used to measure the overall size and health of an economy. GDP can be affected by both fiscal and monetary policies. Fiscal policies, such as government spending and taxation, can directly impact GDP by increasing or decreasing economic activity. Monetary policies, such as interest rates and the money supply, can also affect GDP by influencing investment, consumption, and borrowing.
+2. Inflation: Inflation is the rate at which the general level of prices for goods and services is increasing over time. Inflation can be caused by a variety of factors, including supply and demand imbalances, changes in production costs, and changes in the money supply. Inflation can be affected by both fiscal and monetary policies. Fiscal policies, such as taxation and government spending, can affect inflation by changing the demand for goods and services. Monetary policies, such as interest rates and the money supply, can also affect inflation by influencing the supply of money and the rate at which it is circulating in the economy.
+3. Unemployment Rates: Unemployment rates measure the percentage of the labor force that is without work but actively seeking employment. Unemployment rates can be affected by both fiscal and monetary policies. Fiscal policies, such as government spending on job training and education, can directly impact unemployment rates by creating new job opportunities. Monetary policies, such as interest rates and the money supply, can also affect unemployment rates by influencing economic growth and investment.
+
+In summary, GDP, inflation, and unemployment rates are closely related economic indicators that are often used to measure the overall health of an economy. Fiscal and monetary policies can affect these indicators by influencing economic activity, demand and supply, and job opportunities.
+warm up finished
+投入请求总数： 300
+requests: [<__main__.ModelRequest object at 0x7f6134147fe0>]
+requests: [<__main__.ModelRequest object at 0x7f623d629a00>, <__main__.ModelRequest object at 0x7f623d62a900>, <__main__.ModelRequest object at 0x7f623d629580>, <__main__.ModelRequest object at 0x7f623d629e80>, <__main__.ModelRequest object at 0x7f615418bb90>, <__main__.ModelRequest object at 0x7f61541894c0>]
+requests: [<__main__.ModelRequest object at 0x7f6154189be0>, <__main__.ModelRequest object at 0x7f615418a1e0>, <__main__.ModelRequest object at 0x7f615418a0f0>]
+requests: []
+requests: [<__main__.ModelRequest object at 0x7f615418a750>]
+requests: []
+requests: [<__main__.ModelRequest object at 0x7f615418acc0>]
+requests: []
+requests: []
+requests: [<__main__.ModelRequest object at 0x7f615418b410>, <__main__.ModelRequest object at 0x7f615418b290>]
+requests: [<__main__.ModelRequest object at 0x7f615418b770>]
+requests: []
+requests: []
+requests: []
+requests: [<__main__.ModelRequest object at 0x7f615418b680>]
+requests: [<__main__.ModelRequest object at 0x7f615418b980>]
+requests: []
+requests: [<__main__.ModelRequest object at 0x7f615418b920>, <__main__.ModelRequest object at 0x7f615418bb30>, <__main__.ModelRequest object at 0x7f615418ade0>, <__main__.ModelRequest object at 0x7f615418bbc0>]
+requests: []
+requests: [<__main__.ModelRequest object at 0x7f615418ba70>]
+requests: [<__main__.ModelRequest object at 0x7f615418bb00>]

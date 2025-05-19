@@ -1,0 +1,12 @@
+{"batch_size:": 70, "request_speed:": 1, "average_latency": 12.668391184806824, "Goodput": 210.60854549406247}
+{"batch_size:": 70, "request_speed:": 1, "average_latency": 4.23750767548879, "Goodput": 228.306305508486}
+{"batch_size:": 70, "request_speed:": 2, "average_latency": 50.62699193000793, "Goodput": 233.27359236479393}
+{"batch_size:": 70, "request_speed:": 2, "average_latency": 9.897056220372518, "Goodput": 393.5279216672356}
+{"batch_size:": 70, "request_speed:": 3, "average_latency": 64.78449244181316, "Goodput": 233.24381851554756}
+{"batch_size:": 70, "request_speed:": 3, "average_latency": 21.921818788846334, "Goodput": 428.41577850806084}
+{"batch_size:": 70, "request_speed:": 3, "average_latency": 21.990512628555297, "Goodput": 424.2753163608694}
+{"batch_size:": 70, "request_speed:": 3, "average_latency": 8.076481747627259, "Goodput": 582.7399070550083}
+{"batch_size:": 70, "request_speed:": 3, "average_latency": 11.576493501663208, "Goodput": 535.1421115265896}
+{"batch_size:": 70, "request_speed:": 3, "average_latency": 10.108121574719746, "Goodput": 536.4514533574669}
+{"batch_size:": 70, "request_speed:": 1, "average_latency": 4.398484298388163, "Goodput": 228.80885007073357}
+{"batch_size:": 70, "request_speed:": 2, "average_latency": 5.508523397445678, "Goodput": 430.41790559256236}
